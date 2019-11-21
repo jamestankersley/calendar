@@ -16,7 +16,7 @@ body {
     border-left: 1px solid black;
     padding: 16px;
   }
-    
+   /* css for jumbotron */ 
   .jumbotron {
     text-align: center;
     background-color: transparent;
