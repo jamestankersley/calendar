@@ -7,7 +7,7 @@ body {
   .container {
     position: relative;
   }
-  
+  /* css for text */
   textarea{
     background: transparent;
     border: none;
@@ -24,7 +24,7 @@ body {
     border-radius: 0;
     border-bottom: 10px solid black;
   }
-    
+    /* text */
   .description1{
     position: absolute;
     left: 117px;
