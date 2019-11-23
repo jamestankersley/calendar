@@ -25,6 +25,8 @@ body {
     border-bottom: 10px solid black;
   }
     /* text */
+
+    /* description */
   .description1{
     position: absolute;
     left: 117px;
@@ -120,7 +122,7 @@ body {
     height: 80px;
     border-top: 1px solid white;;
   }
-    
+    /* styling for hours */
   .hour1 {
     position: absolute;
     left: 36px;
